@@ -1,6 +1,7 @@
 package com.example.doowat.data.weather
 
 import com.example.doowat.BuildConfig
+import com.example.doowat.data.weather.dto.WeatherDTO
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
